@@ -1,70 +1,59 @@
 # Ekaterina Simonova
 
-Junior digital professional focused on documentation, digital operations, AI-assisted workflows and civic tech.
+Perfil junior digital orientado a documentación, operaciones digitales, análisis de procesos, flujos de trabajo asistidos por IA y civic tech.
 
-I work on turning complex administrative and digital processes into clear, structured and usable documentation.
+Trabajo en convertir procesos administrativos y digitales complejos en documentación clara, estructurada y útil para personas usuarias.
 
-## Focus areas
+## Áreas de interés
 
-- Digital documentation and process analysis
-- Data entry and back-office workflows
-- AI-assisted research, writing and information organization
-- Mobile UX audits for public service websites
-- Civic tech and digital inclusion
-- Clear guides for online administrative procedures
+- Documentación digital y análisis de procesos
+- Data entry y tareas de back office
+- Investigación, redacción y organización de información con apoyo de IA
+- Auditorías UX móviles de sitios web de servicios públicos
+- Civic tech e inclusión digital
+- Guías claras para trámites administrativos online
 
-## Current portfolio projects
+## Proyectos de portfolio
 
-### Public Service UX Audits
-Mobile usability reviews of public websites and digital services, focused on accessibility, clarity and practical user problems.
+### Auditorías UX de servicios públicos
 
-### Digital Procedure Guides
-Step-by-step guides for online procedures, written in clear language and designed for users who rely mainly on mobile devices.
+Revisión de usabilidad móvil de páginas web y servicios digitales públicos, con foco en accesibilidad, claridad, errores prácticos y dificultades reales para la persona usuaria.
 
-### AI Documentation Workflows
-Examples of how AI tools can support structured documentation, text review, research organization and process improvement.
+### Guías de trámites digitales
 
-### Civic Tech Projects
-Small digital projects related to public participation, urban issues, inclusion and access to services.
+Guías paso a paso para realizar trámites online desde el móvil, escritas en lenguaje claro y pensadas para personas con dificultades digitales, migrantes o usuarias sin ordenador.
 
-## Tools and skills
+### Flujos de documentación con IA
 
-- Google Docs, Google Sheets, Excel
-- PDF documentation and form analysis
-- AI-assisted workflows
-- Basic HTML/CSS
-- Manual testing and UX review
-- Information organization
-- Clear writing and documentation
+Ejemplos de uso responsable de herramientas de IA para estructurar información, revisar textos, organizar documentación y mejorar procesos digitales.
 
-## Languages
+### Proyectos de civic tech
 
-- Russian — native
-- Spanish — learning / working toward professional use
-- English — working proficiency
+Pequeños proyectos digitales relacionados con participación ciudadana, inclusión digital, mejora de servicios públicos y accesibilidad.
 
-## Career direction
+## Herramientas y competencias
 
-I am building a junior profile for roles such as:
+- Google Docs, Google Sheets y Excel
+- Documentación PDF y análisis de formularios
+- Flujos de trabajo asistidos por IA
+- HTML/CSS básico
+- Testing manual y revisión UX
+- Organización de información
+- Redacción clara y documentación paso a paso
 
-- Digital Operations Assistant
+## Idiomas
+
+- Ruso — nativo
+- Español — en aprendizaje, orientado a uso profesional
+- Inglés — competencia de trabajo
+
+## Objetivo profesional
+
+Estoy construyendo un perfil junior para funciones como:
+
+- Asistente de operaciones digitales
 - Data Entry / Back Office
-- Document Processing Assistant
+- Asistente de gestión documental
 - AI Data Annotator
-- Manual QA / Web Tester
-- Civic Tech / Digital Inclusion Assistant
-
-<!--
-**katia-simonova/katia-simonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tester manual / Web QA junior
+- Asistente de civic tech e inclusión digital
