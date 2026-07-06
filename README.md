@@ -58,6 +58,15 @@ Sistema simple para organizar cursos, prácticas, candidaturas, entidades, conta
 Repositorio:
 `seguimiento-cursos-candidaturas`
 
+
+## Portfolio activo
+
+- [Auditorías UX de servicios públicos](https://github.com/katia-simonova/auditorias-ux-servicios-publicos)
+- [Guías de trámites digitales](https://github.com/katia-simonova/guias-tramites-digitales)
+- [Flujos de documentación con IA](https://github.com/katia-simonova/flujos-documentacion-ia)
+- [Proyectos Civic Tech](https://github.com/katia-simonova/proyectos-civic-tech)
+- [Seguimiento de cursos y candidaturas](https://github.com/katia-simonova/seguimiento-cursos-candidaturas)
+
 ## Herramientas y competencias
 
 - Google Docs, Google Sheets y Excel
@@ -74,7 +83,7 @@ Repositorio:
 
 - Ruso — nativo
 - Español — en aprendizaje, orientado a uso profesional
-- Английский — competencia de trabajo
+- Inglés — competencia de trabajo
 
 ## Objetivo profesional
 
@@ -91,6 +100,6 @@ Estoy orientando mi perfil hacia funciones como:
 
 ## Enfoque de trabajo
 
-Uso herramientas de IA de forma responsable для apoyar documentación, análisis, revisión de textos, organización de información y automatización básica.
+Uso herramientas de IA de forma responsable para apoyar documentación, análisis, revisión de textos, organización de información y automatización básica.
 
 La prioridad no es sustituir criterio humano, sino mejorar la claridad, la estructura, la revisión y la utilidad práctica de la información.
